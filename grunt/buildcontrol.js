@@ -8,7 +8,7 @@ module.exports = function (grunt) {
         },
         pages: {
           options: {
-            remote: 'git@github.com:sashcy/mbr.git',
+            remote: 'git@github.com:sashcy/amp.git',
             branch: 'gh-pages'
           }
         },
